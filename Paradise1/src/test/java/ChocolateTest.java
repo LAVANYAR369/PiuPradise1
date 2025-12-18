@@ -1,6 +1,7 @@
 
 public class ChocolateTest {
 	public void method1() {
-		System.out.println("Chocolates");
+		System.out.println("Chocolates priya");
+		System.out.println("ice creams lavanya");
 	}
 }
